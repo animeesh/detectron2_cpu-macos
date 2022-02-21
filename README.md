@@ -21,7 +21,7 @@
   - pycocotools==2.0.2
 
   
-  - To validate you are in proper location and everythin is set, Run following command
+  ## To validate you are in proper location and everythin is set, Run following command
    
    
    Run --  python -m detectron2.utils.collect_env
@@ -29,10 +29,17 @@
   ## for the first run it will download the pkl file of ~ 178mb
   
   ## Demo
-  Detectron2_cpu_result:
-![british.jpeg](https://github.com/animeesh/detectron2_cpu-macos/blob/main/british.jpeg)
+  
+  
+  - Detectron2_cpu_Demo:
+  
+  
+  ![british.jpeg](https://github.com/animeesh/detectron2_cpu-macos/blob/main/british.jpeg)
+  credit:google
+
+  - Detectron2_cpu_result:
 
 
-![detectron.png](https://github.com/animeesh/detectron2_cpu-macos/blob/main/detectron2.png)
+  ![detectron.png](https://github.com/animeesh/detectron2_cpu-macos/blob/main/detectron2.png)
 
 
