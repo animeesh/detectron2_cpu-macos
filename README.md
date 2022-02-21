@@ -29,7 +29,7 @@ Install Detectron2 via this comand-- python -m pip install 'git+https://github.c
   ## Demo
   Detectron2_cpu_result:
 
-![british.jpeg](https://github.com/wangermeng2021/ScaledYOLOv4-tensorflow2/blob/main/images/pothole_p5_detection_3.png)
-![british_result.jpeg](https://github.com/wangermeng2021/ScaledYOLOv4-tensorflow2/blob/main/images/chess_p5_detection.png)
+![british.jpeg](https://github.com/animeesh/detectron2_cpu-macos/blob/main/british.jpeg)
+![detectron.png](https://github.com/animeesh/detectron2_cpu-macos/blob/main/detectron2.png)
 
 
