@@ -5,7 +5,8 @@
   for understanding the detectron 
   
   
-# Create a conda environment with conda create -n detectron2 python=3.7
+# Steps to inference locally on cpu 
+- Create a conda environment with conda create -n detectron2 python=3.7
 - conda activate detectron2
 - Install PyTorch and Torchvision --  conda install pytorch torchvision torchaudio -c pytorch
 - Install OpenCV with conda install -c pip install opencv-python
