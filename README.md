@@ -5,16 +5,16 @@
   for understanding the detectron 
   
   
-Create a conda environment with conda create -n detectron2 python=3.7
--conda activate detectron2
--Install PyTorch and Torchvision --  conda install pytorch torchvision torchaudio -c pytorch
--Install OpenCV with conda install -c pip install opencv-python
--Install Detectron2 via this comand-- python -m pip install 'git+https://github.com/facebookresearch/detectron2.git' ( this worked well on my M1-based Mac Mini.)
+# Create a conda environment with conda create -n detectron2 python=3.7
+- conda activate detectron2
+- Install PyTorch and Torchvision --  conda install pytorch torchvision torchaudio -c pytorch
+- Install OpenCV with conda install -c pip install opencv-python
+- Install Detectron2 via this comand-- python -m pip install 'git+https://github.com/facebookresearch/detectron2.git' ( this worked well on my M1-based Mac Mini.)
   
   
   
 
- ##This configuration worked out for me ##
+ ## This configuration worked out for me ##
   - python==3.7
   - torch==1.10.0
   - torchvision==0.11.3
@@ -26,7 +26,7 @@ Create a conda environment with conda create -n detectron2 python=3.7
    
    Run --  python -m detectron2.utils.collect_env
 
-  -- ##for the first run it will download the pkl file of ~ 178mb
+  ## for the first run it will download the pkl file of ~ 178mb
   
   ## Demo
   Detectron2_cpu_result:
